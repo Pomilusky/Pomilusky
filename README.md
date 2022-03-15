@@ -4,8 +4,8 @@ I can speak python and fortran. I am currently learning a little bit of R as wel
 
 - 📫 You can reach me at marcnosas@hotmail.com or you can visit my linkedin acount (you can find it in the QR or here: https://www.linkedin.com/in/pomilusky/): 
 
+<div align=center><img src ="https://user-images.githubusercontent.com/94927577/158353058-8129bd0c-4d64-4fa9-b4f1-636ee16f4d84.png" width="200" height="200"/></div>
 
-- ![image](https://user-images.githubusercontent.com/94927577/158353058-8129bd0c-4d64-4fa9-b4f1-636ee16f4d84.png)
 
 
 <!---
