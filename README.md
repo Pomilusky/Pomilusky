@@ -1,12 +1,12 @@
 Hi and welcome to my Github! 
-My name is Marc and I am a phycisist interested in DataScience and developing code! 👀 
-I can speak python and fortran. I am currently learning a little bit of R as well, because stadistics matter.
+I'm Marc 👀, a physicist 👨🏻‍🏫 with a passion for Data Science and coding👨🏻‍💻. My coding languages of choice are Python and GoLang, and I'm currently diving into the world of R—because statistics truly do matter. I can also speak Fortran!
 
-Right now I am working in a Data Driven Digital Marketing Company[^1], my main roles are developing and helping with dealing with data, we are starting to have quite a lot of data to warehouse and process! I was hired to help in this matter. I also like developing little applications that make my collegues work a little more easy and fast. 
 
-Currently I am also studying a masters degree on [Data Science](https://estudis.uoc.edu/ca/graus/data-science/presentacio), trying to understand a little better how to deal with big amounts of data, how modeling works, data minning, and many more things that I might need in a close future, improving my skills is something I like to work with, and guided study is a fast way to learn! Even though my main master has always been google, and now the AI chats are also getting there. 
+Presently, I'm at the forefront of data at a leading Data-Driven Digital Marketing firm, Company[^1]. My core responsibilities include data development and management. With the surge in data we're handling, I was brought on board to streamline and optimize our data warehousing processes. I also enjoy crafting applications that enhance efficiency for my colleagues.
 
-I am not using GitHub to publish my work very often, as most of it has to do with very specific needs in my company, but if you have any questions or wanna now a little further don't hesitate to reach me! I will just try publish some of my University projects if they allow it! Among my repositories you are gonna find projects from a Bootcamp I did and probably some random code I have written for random purposes.
+Parallel to my professional journey, I'm pursuing a [Master's degree in Data Science](https://estudis.uoc.edu/ca/graus/data-science/presentacio). This program is refining my understanding of data modeling, mining, and handling large datasets—tools I foresee as invaluable in my career. While I value structured learning, I also recognize Google as my ever-reliable mentor. Recently, AI chatbots have also joined the ranks.
+
+Though my GitHub isn't a regular showcase of my work (due to company specifics), you'll find select projects from my university (subject to permission) and a Bootcamp I attended. There might also be snippets of code crafted for diverse needs. If anything piques your interest or if you have queries, please feel free to connect. I'm always eager to engage with fellow tech enthusiasts.
 
 - 📫 Feel free to reach me at marcnosas@hotmail.com or you can visit my linkedin acount (you can find it in the QR or here: https://www.linkedin.com/in/pomilusky/): 
 
