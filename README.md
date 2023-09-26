@@ -8,9 +8,14 @@ Parallel to my professional journey, I'm pursuing a [Master's degree in Data Sci
 
 Though my GitHub isn't a regular showcase of my work (due to company specifics), you'll find select projects from my university (subject to permission) and a Bootcamp I attended. There might also be snippets of code crafted for diverse needs. If anything piques your interest or if you have queries, please feel free to connect. I'm always eager to engage with fellow tech enthusiasts.
 
-- 📫 Feel free to reach me at marcnosas@hotmail.com or you can visit my linkedin acount (you can find it in the QR or here: https://www.linkedin.com/in/pomilusky/): 
+- 📫 Feel free to reach me at marcnosas@hotmail.com or you can visit my [Linkedin acount]("https://www.linkedin.com/in/pomilusky/"): 
 
-<div align=center><img src ="https://user-images.githubusercontent.com/94927577/158353058-8129bd0c-4d64-4fa9-b4f1-636ee16f4d84.png" width="200" height="200"/></div>
+<div align=center>
+  <a href = "https://www.linkedin.com/in/pomilusky/">
+  <img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>
+  </a>
+</div>
+
 
 [^1]: [Sekuenz](https://sekuenz.com/), Check it Out! 
 
